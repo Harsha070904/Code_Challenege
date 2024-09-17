@@ -1,4 +1,4 @@
-public class ReverseWords {
+public class Reverse_word {
 
     public static String reverseWords(String s) {
        
