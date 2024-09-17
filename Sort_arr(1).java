@@ -1,4 +1,4 @@
-public class Sort_arr {
+public class Sort_arr(1) {
 
     public static void sortArray(int[] arr) {
         int low = 0, mid = 0, high = arr.length - 1;
