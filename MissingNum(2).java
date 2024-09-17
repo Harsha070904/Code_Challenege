@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MissingNum(2) {
+public class MissingNum {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
