@@ -1,4 +1,4 @@
-public class TrapRain_Water {
+public class Arr_trap_water {
 
     public static int trap(int[] height) {
         if (height == null || height.length == 0) {
